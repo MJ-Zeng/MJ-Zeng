@@ -4,4 +4,3 @@
 
 [![Top Langs](https://github-readme-stats-gold-phi-76.vercel.app/api/top-langs/?username=MJ-Zeng&layout=compact&theme=transparent&bg_color=0d1117&title_color=4ec8f7&text_color=c9d1d9&border_radius=12&border_color=30363d&hide_border=false&count_private=true&langs_count=6)](https://github.com/MJ-Zeng)
 
-[![My Best Project](https://github-readme-stats-gold-phi-76.vercel.app/api/pin/?username=MJ-Zeng&repo=your-repo-name&theme=transparent&bg_color=0d1117&title_color=4ec8f7&text_color=c9d1d9&border_radius=12&border_color=30363d&hide_border=false)](https://github.com/MJ-Zeng/your-repo-name)
